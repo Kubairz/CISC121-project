@@ -38,15 +38,6 @@ pip install -r requirements.txt
 python app.py
 
 ---
-
-## Screenshots
-
-### App Interface (Before Running)
-![Interface](https://raw.githubusercontent.com/Kubairz/CISC121-project/main/screenshot1.png)
-
-### Example Run (After Running)
-![Result](https://raw.githubusercontent.com/Kubairz/CISC121-project/main/screenshot2.png)
-
 ## Testing & Verification
 
 To verify the correctness of the program, we tested the binary search visualization using the example shown in the previous screenshots. Using the input list 1, 4, 7, 10, 12 and target value 7, the program
@@ -59,5 +50,15 @@ To verify the correctness of the program, we tested the binary search visualizat
 - Displayed every reasoning step in a clear and accurate sequence
 
 The output matched the expected behavior of a properly implemented binary search, confirming that the algorithm works correctly and the interface behaves as intended.
+
+## Screenshots
+
+### App Interface (Before Running)
+![Interface](https://raw.githubusercontent.com/Kubairz/CISC121-project/main/screenshot1.png)
+
+### Example Run (After Running)
+![Result](https://raw.githubusercontent.com/Kubairz/CISC121-project/main/screenshot2.png)
+
+
 
 
