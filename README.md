@@ -40,8 +40,6 @@ pip install -r requirements.txt
 
 ## Screenshots
 
-## Screenshots
-
 ### App Interface (Before Running)
 ![Interface](https://raw.githubusercontent.com/Kubairz/CISC121-project/main/screenshot1.png)
 
