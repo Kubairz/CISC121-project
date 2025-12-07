@@ -47,6 +47,7 @@ python app.py
 ### Example Run (After Running)
 ![Result](https://raw.githubusercontent.com/Kubairz/CISC121-project/main/screenshot2.png)
 
+## Testing & Verification
 
 To verify the correctness of the program, we tested the binary search visualization using the example shown in the previous screenshots. Using the input list 1, 4, 7, 10, 12 and target value 7, the program
 - Correctly calculated the midpoint on each iteration
