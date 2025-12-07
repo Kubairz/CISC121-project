@@ -11,7 +11,6 @@ Link to the deployed application:
 ---
 
 ## Problem Breakdown & Computational Thinking
-### This section explains the problem breakdown for the binary search algorithm using the four pillars of computational thinking: decomposition, pattern recognition, abstraction, and algorithmic thinking.
 
 ### Decomposition
 Binary search can be broken into a sequence of smaller steps. The algorithm begins with a sorted list and sets two pointers called low and high. Low starts at 0 and high is set to the length of the list minus 1. During each iteration, the algorithm calculates the midpoint using the expression (low + high) // 2. It then compares the target value with the value stored at that midpoint. If the target is equal to list[mid], the search ends because the value has been found. If the target is less than list[mid], the search range is reduced by updating high to mid minus 1 so that the algorithm continues searching the left portion of the list. If the target is greater than list[mid], low is updated to mid plus 1 so that the search continues in the right portion. These steps repeat until the target is found or until low becomes greater than high, which means the target is not present in the list.
