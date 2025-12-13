@@ -59,8 +59,9 @@ The output matched the expected behavior of a properly implemented binary search
 ### Example Run (After Running) 
 ![Result](https://raw.githubusercontent.com/Kubairz/CISC121-project/main/screenshot2.png)
 
+### App Interface (Before Running) 
 ![Example 2 Before](https://raw.githubusercontent.com/Kubairz/CISC121-project/main/Example%202%20Before.png)
-
+### Example Run (After Running) 
 ![Example 2 After](https://raw.githubusercontent.com/Kubairz/CISC121-project/main/Example%202%20After.png)
 
 
