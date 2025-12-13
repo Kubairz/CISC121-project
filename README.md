@@ -24,6 +24,31 @@ The program hides many of the internal details of binary search to make it easie
 ### Algorithmic Thinking
 Binary search follows a clear structure based on input, processing, and output. The input is a list of integers and a target value that the user wants to locate. The processing stage applies the binary search algorithm by repeatedly calculating the midpoint using (low + high) // 2, comparing the midpoint value with the target, and updating either low or high depending on the comparison. This continues until the target is found or there are no remaining elements to search. The output is either the index where the target was found or a message explaining that the value does not appear in the list along with the reasoning used to reach that conclusion.
 
+## Algorithm Implementation
+
+The binary search algorithm was implemented in Python using an iterative approach.
+The function maintains two pointers, low and high, and repeatedly calculates the
+midpoint using (low + high) // 2. At each step, the midpoint value is compared
+with the target value, and the search range is updated accordingly.
+
+The implementation correctly terminates when the target is found or when the
+search range becomes invalid (low > high). Key steps are commented in the code
+to improve readability and understanding.
+
+---
+
+## Use of Python Libraries for UI
+
+The user interface was built using the Gradio library. Gradio was chosen because
+it provides a simple and beginner-friendly way to create interactive Python
+applications. The interface includes input fields for the list of numbers and
+the target value, along with an output area that displays each step of the
+binary search process.
+
+This interactive design allows users to clearly see how the algorithm updates
+the low, high, and midpoint values at each iteration.
+
+
 ---
 
 ## How to Run the App
