@@ -40,7 +40,7 @@ to improve readability and understanding.
 ## Use of Python Libraries for UI
 
 The user interface was built using the Gradio library. Gradio was chosen because
-it provides a simple and beginner-friendly way to create interactive Python
+it provides a simple and beginner friendly way to create interactive Python
 applications. The interface includes input fields for the list of numbers and
 the target value, along with an output area that displays each step of the
 binary search process.
