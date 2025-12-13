@@ -53,11 +53,16 @@ The output matched the expected behavior of a properly implemented binary search
 
 ## Screenshots
 
-### App Interface (Before Running)
+### App Interface (Before Running) 
 ![Interface](https://raw.githubusercontent.com/Kubairz/CISC121-project/main/screenshot1.png)
 
-### Example Run (After Running)
+### Example Run (After Running) 
 ![Result](https://raw.githubusercontent.com/Kubairz/CISC121-project/main/screenshot2.png)
+
+![Example 2 Before](https://raw.githubusercontent.com/Kubairz/CISC121-project/main/Example%202%20Before.png)
+
+![Example 2 After](https://raw.githubusercontent.com/Kubairz/CISC121-project/main/Example%202%20After.png)
+
 
 ## Conclusion
 This project demonstrates how binary search can be visualized in an interactive and accessible way using Python and the Gradio library. By breaking the algorithm into clear steps and showing the reasoning behind each iteration, the application helps users understand both how binary search works and why it is efficient. The project also strengthened my skills in algorithm design, computational thinking, and building simple user interfaces in Python.
